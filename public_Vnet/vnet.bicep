@@ -2,12 +2,11 @@ var resourceTags  = {
   backupType: 'none'
   environmentName: 'development'
   maintenanceStatus: 'inactive'
-  appFamily: 'Active Directory'
-  CostCenter: '495844854'
-  supportGroup: 'Data Center Networking'
-  maintenanceWindow: 'SU-0001-0400-PT'
-  parkMyCloud: 'up-MTWRF-0400-2100-no-delay-PT'
-  securityPatching: 'AU-NOX-1-SU-0001-0400'
+  appFamily: 'xxxx'
+  CostCenter: 'xxxxx'
+  supportGroup: 'xxxx'
+  maintenanceWindow: 'xxx'
+ 
   rightSize: 'optout'
 }
 var vNet = [
